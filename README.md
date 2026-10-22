@@ -95,16 +95,3 @@ from the database schema to the deployed container, and I write the tests that p
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
-
-
----
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed7201/Ahmed7201/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed7201/Ahmed7201/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ahmed7201/Ahmed7201/output/github-snake.svg" />
-</picture>
-
-<sub>Most of my work happens in private company repositories, so this graph shows activity, not the code itself.</sub>
