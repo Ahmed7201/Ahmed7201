@@ -3,7 +3,7 @@
 <p align="center"><b>Communications &amp; Information Engineer · Full-Stack &amp; Automation Developer</b></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-ghoneim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ahmedghoneim0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:s-a.ghoneim@zewailcity.edu.eg"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ahmed7201&label=profile%20views&color=0d1b2a&style=flat-square" alt="profile views"/>
 </p>
