@@ -15,18 +15,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake (dark)
+      - name: Generate Snake (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ahmed7201
-          outputs: dist/github-snake-dark.svg
-          svg_out_dark: dist/github-snake-dark.svg
-
-      - name: Generate Snake (light)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Ahmed7201
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
