@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:16213e,100:e94560&height=200&section=header&text=Ahmed%20Ghoneim&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Communications%20%26%20Information%20Engineering%20%C2%B7%20Full-Stack%20%26%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ahmed Ghoneim"/>
-</p>
+<h1 align="center">Ahmed Ghoneim</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=640&height=40&lines=Web+apps+%C2%B7+data+pipelines+%C2%B7+workflow+automation;From+signals+and+networks+to+production+software" alt="typing intro"/>
-</p>
+<p align="center"><b>Communications &amp; Information Engineer · Full-Stack &amp; Automation Developer</b></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-ghoneim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,17 +12,14 @@
 
 ## About me
 
-I'm a **Communications & Information Engineering** student at **Zewail City of Science and Technology**. My degree sits where
-electronics, signals and networks meet computing, and most of my time now goes into building software that real teams use every day.
+I'm a **Communications & Information Engineer** from **Zewail City of Science and Technology**, and I build software that real teams use every day.
 
 At **Abou Ghaly Motors (AGM)** I build internal marketing and data tools on the digital-transformation team: web dashboards, lead
 pipelines from ad platforms, analytics services, and the automation that connects them. I work across the whole path,
 from the database schema to the deployed container, and I write the tests that prove it works.
 
-- 🛠️ **Day to day:** TypeScript / Next.js, Python, PostgreSQL, n8n, Docker on AWS
-- 📡 **Engineering background:** signals and systems, DSP, computer networks, digital design
-- 🤖 **How I work:** AI-assisted development with Claude Code, plus code review, CI and tests before anything ships
-- 🌱 **Learning:** cloud architecture, system design, and taking projects from prototype to production
+- **Day to day:** TypeScript / Next.js, Python, PostgreSQL, n8n, Docker on AWS
+- **Focus:** clean data pipelines, reliable automation, and taking projects from prototype to production
 
 ---
 
@@ -50,9 +43,8 @@ from the database schema to the deployed container, and I write the tests that p
 |---|---|---|
 | [**EasyClassroom**](https://github.com/Ahmed7201/EasyClassroom) | Academic assistant that pulls courses and assignments from Google Classroom and Calendar and sorts them by type | Go · React · TypeScript · Google APIs |
 | [**qr-quiz-app**](https://github.com/Ahmed7201/qr-quiz-app) | Protects a link behind custom questions, with a QR code generated for every quiz and an admin panel | React · Vite · Supabase · Tailwind |
-| [**EDUZAGO**](https://github.com/Ahmed7201/EDUZAGO-PROJECT-DATABASE) | Database course project: an e-learning platform with a full relational schema | C# · ASP.NET · SQL |
+| [**EDUZAGO**](https://github.com/Ahmed7201/EDUZAGO-PROJECT-DATABASE) | E-learning platform with a full relational database schema | C# · ASP.NET · SQL |
 | [**ShapeStudio**](https://github.com/Ahmed7201/ShapeStudio) / [**CIE101**](https://github.com/Ahmed7201/CIE101-ProjectSummer) | Object-oriented shape-drawing app with save and load, built in C++ on a graphics library | C++ · OOP |
-| [**DEPI assignments**](https://github.com/Ahmed7201/DEPI-Assignment-4-OOP) | Java and OOP exercises from the Digital Egypt Pioneers Initiative (DEPI) | Java |
 
 ---
 
@@ -104,16 +96,10 @@ from the database schema to the deployed container, and I write the tests that p
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
 
-**AI tooling**<br/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
 
 ---
 
 ## Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed7201&theme=radical&background=0d1b2a&border=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560&hide_border=true" alt="GitHub streak" width="70%"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed7201/Ahmed7201/output/github-snake-dark.svg" />
@@ -122,7 +108,3 @@ from the database schema to the deployed container, and I write the tests that p
 </picture>
 
 <sub>Most of my work happens in private company repositories, so this graph shows activity, not the code itself.</sub>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:16213e,100:e94560&height=100&section=footer" width="100%" alt=""/>
-</p>
